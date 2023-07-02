@@ -1,2 +1,2 @@
-# openCAL
+# openCALC
 Object Surface, Volume, Circumstances, Area etc Calculations Tool Package
